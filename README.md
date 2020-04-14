@@ -1,6 +1,11 @@
 # SuperBowlDataAnalysis
 
-A Data Analysis project with Python using the Super Bowl Data. I have tried to make a project with the statistics from each game, TV viewership and also half time musicians.
+A Data Analysis project with Python using the Super Bowl Data. I have tried to make a project with the statistics from each game, TV viewership and also half time musicians. We're going to answer questions like:<br />
+
+* What are the most extreme game outcomes?<br />
+* How does the game affect television viewership?<bvr />
+* How have viewership, TV ratings, and ad cost evolved over time?<br />
+* Who are the most prolific musicians in terms of halftime show performances?<br />
 
 ## How To Use :
 
