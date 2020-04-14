@@ -8,11 +8,11 @@ A Data Analysis project with Python using the Super Bowl Data. I have tried to m
 
 You need to have Jupyter Notebook installed. Once Jupyter Notebook is installed follow, these steps:
 
-* Clone the project:
+* Clone the repo:
 ```
 git clone https://github.com/anubhavvs/SuperBowlDataAnalysis.git
 ```
-* Move to the porject folder
+* Move to the project folder
 ```
 cd SuperBowlDataAnalysis/
 ```
